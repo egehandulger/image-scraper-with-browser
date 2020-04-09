@@ -1,1 +1,1 @@
-# google-image-scraper
+# image-scraper
