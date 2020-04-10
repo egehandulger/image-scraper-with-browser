@@ -1,4 +1,4 @@
-from imagescraper.location import Location
+from imagescraperwithbrowser.location import Location
 from logdecorator import log_on_start
 from selenium import webdriver
 from warnings import warn

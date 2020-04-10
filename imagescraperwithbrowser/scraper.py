@@ -1,5 +1,5 @@
-from imagescraper.location import Location
-from imagescraper.browser import Browser
+from imagescraperwithbrowser.location import Location
+from imagescraperwithbrowser.browser import Browser
 from logdecorator import log_on_start
 from logging import INFO
 from time import sleep
